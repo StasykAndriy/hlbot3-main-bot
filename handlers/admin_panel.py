@@ -1,3 +1,4 @@
+#fwegwegh
 from loader import dp, bot 
 from data.config import admin_id
 from aiogram.dispatcher import FSMContext
